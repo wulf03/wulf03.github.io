@@ -5,3 +5,10 @@
 layout: default
 title: Home
 ---
+## Seiten
+
+- [About](/about/)
+- [Projects](/projects/)
+- [Contact](/contact/)
+- [Impressum](/impressum/)
+- [Datenschutz](/datenschutz/)
